@@ -22,10 +22,10 @@ I'm a student at University of Information Technology - VNUHCM
 
 - 📚 I'm learning and practicing in `Software Development`
 
-- 📝 I regularly write articles on [my blog](https://trunghuynh2304.github.io/)
+- 📝 I regularly write articles on [my blog](https://akaijs.github.io/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/trunghuynh2304" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733553.png" alt="trunghuynh2304" height="30"/></a>
 <a href="https://fb.com/trunghuynh2304" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/733/733549.png" alt="trunghuynh2304" height="30"/></a>
