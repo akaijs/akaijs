@@ -33,7 +33,7 @@ I'm a student at University of Information Technology - VNUHCM
 </p>
 
 <h3 align="left">Github Statistics:</h3>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trunghuynh2304&show_icons=true&locale=en&layout=compact" alt="trunghuynh2304" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaijs&show_icons=true&locale=en&layout=compact" alt="akaijs" />
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghuynh2304&show_icons=true&locale=en" alt="trunghuynh2304" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akaijs&show_icons=true&locale=en" alt="akaijs" />
 </p>
