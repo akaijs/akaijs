@@ -29,5 +29,7 @@ I'm a student at University of Information Technology - VNUHCM
 <h3 align="left">Github Statistics:</h3>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=akaijs&label=Profile%20views&color=FFC200&style=flat-square" alt="akaijs" /> 
+</p>
+<p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaijs&show_icons=true&locale=en" alt="akaijs" />
 </p>
