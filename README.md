@@ -20,7 +20,7 @@ I'm a student at University of Information Technology - VNUHCM
 
 - 👨‍🎓 I'm currently a `Software Engineering` student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
-- 📚 I'm tudying and honing my skills in `Software Development`
+- 📚 I'm studying and honing my skills in `Software Development`
 
 - 📝 I publish articles on [my blog](https://akaijs.github.io/) on a regular basis.
 
