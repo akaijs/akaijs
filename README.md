@@ -22,8 +22,9 @@ I'm a student at University of Information Technology - VNUHCM
 
 - 📚 I'm studying and honing my skills in `Software Development`
 
+<!--
 - 📝 I publish articles on [my blog](https://akaijs.github.io/) on a regular basis.
-
+-->
 - Reach me at: [trunghuynh2304@gmail.com](mailto:trunghuynh2304@gmail.com) or [Linkedin](https://www.linkedin.com/in/trunghuynh2304/)
 
 <h3 align="left">Github Statistics:</h3>
