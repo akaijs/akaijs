@@ -16,8 +16,6 @@ I'm a student at University of Information Technology - VNUHCM
 
 ## Hi 👋, I'm Trung Huynh
 
----
-
 - 👨‍🎓 I'm currently a `Software Engineering` student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
 - 📚 I'm studying and honing my skills in `Software Development`
@@ -32,5 +30,5 @@ I'm a student at University of Information Technology - VNUHCM
   <img src="https://komarev.com/ghpvc/?username=akaijs&label=Profile%20views&color=FFC200&style=flat-square" alt="akaijs" /> 
 </p>
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaijs&show_icons=true&locale=en" alt="akaijs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaijs&hide=issues,contribs&count_private=true&show_icons=true" alt="akaijs" />
 </p>
