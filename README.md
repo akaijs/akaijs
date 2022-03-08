@@ -23,12 +23,12 @@ I'm a student at University of Information Technology - VNUHCM
 <!--
 - 📝 I publish articles on [my blog](https://akaijs.github.io/) on a regular basis.
 -->
-- Reach me at: [trunghuynh2304@gmail.com](mailto:trunghuynh2304@gmail.com) or [Linkedin](https://www.linkedin.com/in/trunghuynh2304/)
+- Reach me at: [trunghuynh2304@gmail.com](mailto:trunghuynh2304@gmail.com) or [Linkedin](https://www.linkedin.com/in/trunghq234/)
 
 <h3 align="left">Github Statistics:</h3>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=akaijs&label=Profile%20views&color=FFC200&style=flat-square" alt="akaijs" /> 
+  <img src="https://komarev.com/ghpvc/?username=trunghq234&label=Profile%20views&color=FFC200&style=flat-square" alt="trunghq234" /> 
 </p>
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaijs&hide=issues,contribs&count_private=true&show_icons=true" alt="akaijs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghq234&hide=issues,contribs&count_private=true&show_icons=true" alt="trunghq234" />
 </p>
