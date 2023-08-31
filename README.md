@@ -24,9 +24,10 @@ I'm a student at University of Information Technology - VNUHCM
 - 📝 I publish articles on [my blog](https://akaijs.github.io/) on a regular basis.
 -->
 - Reach me at: [trunghuynh2304@gmail.com](mailto:trunghuynh2304@gmail.com) or [Linkedin](https://www.linkedin.com/in/trunghq234/)
-
+<!--
 <h3 align="left">Github Statistics:</h3>
-<p align="center"> 
+-->
+<p> 
   <img src="https://komarev.com/ghpvc/?username=trunghq234&label=Profile%20views&color=FFC200&style=flat-square" alt="trunghq234" /> 
 </p>
 <!-- <p align="center"> 
