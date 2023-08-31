@@ -29,6 +29,6 @@ I'm a student at University of Information Technology - VNUHCM
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=trunghq234&label=Profile%20views&color=FFC200&style=flat-square" alt="trunghq234" /> 
 </p>
-<p align="center"> 
+<!-- <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=trunghq234&hide=issues,contribs&count_private=true&show_icons=true" alt="trunghq234" />
-</p>
+</p> -->
