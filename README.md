@@ -15,12 +15,11 @@ I'm a student at University of Information Technology - VNUHCM
 -->
 
 ## Hi 👋, I'm Trung Huynh
-
+<!--
 - 👨‍🎓 I'm currently a `Software Engineering` student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
 - 📚 I'm studying and honing my skills in `Software Development`
 
-<!--
 - 📝 I publish articles on [my blog](https://akaijs.github.io/) on a regular basis.
 -->
 - Reach me at: [trunghuynh2304@gmail.com](mailto:trunghuynh2304@gmail.com) or [Linkedin](https://www.linkedin.com/in/trunghq234/)
